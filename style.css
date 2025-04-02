@@ -7,7 +7,7 @@
 .background {
     height: 450px;
     width: 100%;
-    background-image: url("hero.avif");
+    background-image: url("images/hero.avif");
     background-size: cover;
     justify-items: center;
 }
@@ -29,19 +29,6 @@
     padding: 0px 60px;
 }
 
-/* #container {
-    text-align: center;
-}
-ul {
-    display: inline-block;
-}
-ul
-{
-    list-style-type: none;
-    color: white;
-    font-weight: 400;
-    display: inline-block;
-} */
 .list {
     display: flex;
     justify-content: space-evenly;
@@ -64,7 +51,7 @@ ul
     margin-top: 60px;
     height: 65px;
     width: 310px;
-    background-image: url("logo.avif");
+    background-image: url("images/logo.avif");
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
@@ -160,7 +147,7 @@ ul
 .i1 {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    background-image: url("online.avif");
+    background-image: url("images/online.avif");
     width: 100%;
     height: 70%;
     background-size: cover;
@@ -173,7 +160,7 @@ ul
 .i2 {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    background-image: url("dining.avif");
+    background-image: url("images/dining.avif");
     width: 100%;
     height: 70%;
     background-size: cover;
@@ -186,7 +173,7 @@ ul
 .i3 {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    background-image: url("live.jpg");
+    background-image: url("images/live.jpg");
     width: 100%;
     height: 70%;
     background-size: cover;
@@ -233,17 +220,12 @@ ul
     height: 79px;
     border-radius: 10px;
     border: 1px solid #D3D3D3;
-    /* box-shadow: #555; */
 
 }
 
 .c:hover {
     box-shadow: 2px #D3D3D3;
     box-shadow: black;
-    /* transform: scale(1.08);
-    transition-timing-function: ease-in;
-    transition-duration: 0.2s; */
-
 }
 
 .section {
@@ -275,7 +257,7 @@ ul
 .image {
     height: 450px;
     width: 410px;
-    background-image: url("l3.avif");
+    background-image: url("images/l3.avif");
     background-size: cover;
 }
 
@@ -356,7 +338,7 @@ ul
 .play {
     height: 40px;
     width: 137px;
-    background-image: url("play.webp");
+    background-image: url("images/play.webp");
     background-size: cover;
 }
 
@@ -364,7 +346,7 @@ ul
     height: 40px;
     width: 137px;
     margin-left: 10px;
-    background-image: url("app.webp");
+    background-image: url("images/app.webp");
     background-size: cover;
 }
 
@@ -373,7 +355,6 @@ ul
     width: 70%;
     height: 450px;
     margin-top: 50px;
-    /* display: flex; */
     justify-content: space-evenly;
 }
 
@@ -383,11 +364,9 @@ ul
     height: 60px;
     display: flex;
     font-size: 130%;
-    /* font-family: ; */
     align-items: center;
     border-radius: 10px;
     border: 1px solid #D3D3D3;
-    /* box-shadow: #555; */
     color: #3b3b3b;
 }
 
