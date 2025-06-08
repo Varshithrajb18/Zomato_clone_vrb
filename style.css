@@ -37,6 +37,7 @@
     font-weight: 400;
     margin-left: 200px;
     justify-content: flex-end;
+    gap: 30px;
 }
 
 .search {
