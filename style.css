@@ -11,7 +11,9 @@
     background-size: cover;
     justify-items: center;
 }
-
+#an:hover{
+    color: #222222;
+}
 .get {
     display: flex;
     font-weight: bolder;
